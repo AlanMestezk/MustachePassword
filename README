@@ -1,0 +1,21 @@
+
+# Mustache Password
+
+Mustache Password é uma aplicação desenvolvida com o propósito de ser um gerador de senhas eficiente.
+
+### Funcionalidades
+
+O funcionamento da aplicação é simples e intuitivo, consistindo em duas telas distintas:
+
+1. **Gerador de Senhas**: Nesta tela, o usuário pode selecionar o comprimento desejado para a senha a ser gerada. Após essa escolha, basta acionar o botão correspondente para a geração da senha. Uma vez gerada, a senha é automaticamente copiada para a área de transferência do dispositivo, facilitando sua utilização em qualquer contexto desejado.
+
+2. **Gerenciamento de Senhas**: Esta tela oferece aos usuários a possibilidade de gerenciar as senhas previamente salvas. Aqui, é possível remover senhas que já não são mais necessárias e copiar qualquer senha armazenada para uso imediato.
+
+### Tecnologias Utilizadas
+
+Na construção desta aplicação, utilizamos a poderosa combinação do React Native, Expo e TypeScript para explorar e tirar máximo proveito de todas as capacidades oferecidas por essas tecnologias de ponta.
+
+Com uma interface simplificada e funcionalidades essenciais, Mustache Password se destaca como uma ferramenta prática e confiável para a geração e gerenciamento de senhas.
+
+
+
