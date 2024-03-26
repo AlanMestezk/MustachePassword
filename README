@@ -1,17 +1,25 @@
-Mustache Password é uma aplicação desenvolvida com o propósito de ser um gerador de senhas eficiente.
+# Mustache Password
 
-Funcionalidades
-O funcionamento da aplicação é simples e intuitivo, consistindo em duas telas distintas:
+Mustache Password is an application developed with the purpose of being an efficient password generator.
 
-Gerador de Senhas
-Nesta tela, o usuário pode selecionar o comprimento desejado para a senha a ser gerada. Após essa escolha, basta acionar o botão correspondente para a geração da senha. Uma vez gerada, a senha é automaticamente copiada para a área de transferência do dispositivo, facilitando sua utilização em qualquer contexto desejado.
+## Features
 
-Gerenciamento de Senhas
-Esta tela oferece aos usuários a possibilidade de gerenciar as senhas previamente salvas. Aqui, é possível remover senhas que já não são mais necessárias e copiar qualquer senha armazenada para uso imediato.
+The application's operation is simple and intuitive, consisting of two distinct screens:
 
-Tecnologias Utilizadas
-Na construção desta aplicação, utilizamos a poderosa combinação do React Native, Expo e TypeScript para explorar e tirar máximo proveito de todas as capacidades oferecidas por essas tecnologias de ponta.
+### Password Generator
 
-Com uma interface simplificada e funcionalidades essenciais, Mustache Password se destaca como uma ferramenta prática e confiável para a geração e gerenciamento de senhas.
+On this screen, the user can select the desired length for the password to be generated. After making this choice, simply press the corresponding button to generate the password. Once generated, the password is automatically copied to the device's clipboard, making it easy to use in any desired context.
+
+### Password Management
+
+This screen offers users the ability to manage previously saved passwords. Here, it is possible to remove passwords that are no longer needed and copy any stored password for immediate use.
+
+## Technologies Used
+
+In building this application, we used the powerful combination of React Native, Expo, and TypeScript to explore and take full advantage of all the capabilities offered by these cutting-edge technologies.
+
+With a simplified interface and essential features, Mustache Password stands out as a practical and reliable tool for password generation and management.
+
+
 
 
